@@ -1,0 +1,23 @@
+   {
+    "name": "Е клас",
+    "short_name": "Е клас",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhM2HmgTNLjwnOblqqkJ0gkkf9t2QlRTpbvUknWGEmPxjPhw_vm2DLXrpLDbpztuzUN-Z1V_SSzVuDEOCAOJ6qjyNI_VtWwwGZGDNlzviJQw5cFPrusFb9uiSjFh40VLdKZkqLsYeU6LZlSn-5ZQqQqf2Oy8EnBFGOgaPODyM3crO8gMTxZmSK3eFnv=s16000",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjqtn_c3lOsIPfkK-YcTYGrrWVu2NzJu6_I2vtbiZLanzk52hdk7DBAoGdA9wvYE1cIZBUsKNkcMgCTR4DluUGo7eT_fKRU5sLbGh9woGjeMcr5UfE5QT8luEOsWTU5kTrkqett-tV4xa6OLWiKiiIn4UQGybNYIIsnnzY7N0uKCF4Kfy_gY6sx6cUf=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#00FFFF",
+    "background_color": "#63CFCF",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.eklas.cf/"
+}
